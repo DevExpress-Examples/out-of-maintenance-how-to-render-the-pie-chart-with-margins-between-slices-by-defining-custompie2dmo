@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainWindow.xaml](./CS/WpfApplication73/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/WpfApplication73/MainWindow.xaml.vb))
+* [MainWindow.xaml](./CS/WpfApplication73/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/WpfApplication73/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/WpfApplication73/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/WpfApplication73/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to render the Pie Chart with margins between slices by defining CustomPie2DModel 
